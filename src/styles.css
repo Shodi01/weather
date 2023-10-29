@@ -3,6 +3,9 @@ body {
   background: linear-gradient(#8fe0ff, #75b4e3);
 }
 
+img {
+}
+
 h1 {
   color: white;
   font-size: 24px;
@@ -25,7 +28,7 @@ li {
   list-style: none;
 }
 
-small {
+footer {
   text-align: center;
   color: grey;
 }
