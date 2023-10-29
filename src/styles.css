@@ -1,9 +1,11 @@
 body {
   font-family: arial, sans-serif;
-  background: linear-gradient(#8fe0ff, #75b4e3);
 }
 
 img {
+  height: auto;
+  padding: 15px;
+  max-width: 200px;
 }
 
 h1 {
@@ -31,6 +33,10 @@ li {
 footer {
   text-align: center;
   color: grey;
+}
+
+.container {
+  background: linear-gradient(#8fe0ff, #75b4e3);
 }
 
 .weather-app {
